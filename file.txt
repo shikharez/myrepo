@@ -1,3 +1,4 @@
 my new file
 second addition
 third addition
+four addition
